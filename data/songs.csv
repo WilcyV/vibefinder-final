@@ -1,0 +1,51 @@
+title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
+Blinding Lights,The Weeknd,pop,happy,0.8,171,0.75,0.85,0.05
+Levitating,Dua Lipa,pop,happy,0.75,103,0.8,0.9,0.02
+Watermelon Sugar,Harry Styles,pop,happy,0.7,95,0.85,0.82,0.1
+Bad Guy,Billie Eilish,pop,dark,0.55,135,0.4,0.78,0.08
+Save Your Tears,The Weeknd,pop,sad,0.65,118,0.45,0.7,0.03
+Circles,Post Malone,pop,melancholic,0.5,120,0.5,0.65,0.15
+Stay,Justin Bieber,pop,romantic,0.6,170,0.6,0.72,0.04
+Peaches,Justin Bieber,pop,happy,0.65,90,0.75,0.68,0.12
+Good 4 U,Olivia Rodrigo,pop,angry,0.85,166,0.65,0.8,0.03
+Drivers License,Olivia Rodrigo,pop,sad,0.35,82,0.3,0.4,0.45
+Bohemian Rhapsody,Queen,rock,epic,0.88,144,0.7,0.55,0.18
+Enter Sandman,Metallica,metal,intense,0.95,123,0.2,0.5,0.02
+Numb,Linkin Park,rock,dark,0.8,108,0.3,0.6,0.05
+Wonderwall,Oasis,rock,melancholic,0.55,87,0.55,0.5,0.6
+Smells Like Teen Spirit,Nirvana,rock,angry,0.9,117,0.4,0.65,0.04
+Hotel California,Eagles,rock,melancholic,0.6,75,0.45,0.48,0.55
+Sweet Child O' Mine,Guns N' Roses,rock,happy,0.85,125,0.7,0.6,0.08
+Stairway to Heaven,Led Zeppelin,rock,epic,0.7,82,0.5,0.4,0.5
+Seven Nation Army,White Stripes,rock,intense,0.75,124,0.35,0.58,0.1
+Lose Yourself,Eminem,hiphop,intense,0.9,171,0.25,0.75,0.05
+HUMBLE.,Kendrick Lamar,hiphop,intense,0.85,150,0.3,0.82,0.03
+God's Plan,Drake,hiphop,happy,0.65,77,0.65,0.78,0.08
+Rockstar,Post Malone,hiphop,dark,0.7,160,0.35,0.75,0.1
+SICKO MODE,Travis Scott,hiphop,intense,0.88,155,0.3,0.85,0.02
+Industry Baby,Lil Nas X,hiphop,happy,0.8,149,0.7,0.88,0.03
+Hotline Bling,Drake,hiphop,melancholic,0.55,84,0.5,0.72,0.15
+Old Town Road,Lil Nas X,country,happy,0.75,136,0.8,0.78,0.2
+Country Roads,John Denver,country,happy,0.5,75,0.85,0.45,0.75
+Jolene,Dolly Parton,country,sad,0.4,104,0.3,0.5,0.7
+Shape of You,Ed Sheeran,pop,happy,0.7,96,0.78,0.88,0.08
+Perfect,Ed Sheeran,pop,romantic,0.35,95,0.8,0.42,0.65
+Thinking Out Loud,Ed Sheeran,pop,romantic,0.45,79,0.82,0.55,0.4
+Lofi Study Beat,Chillhop,lofi,calm,0.25,75,0.55,0.55,0.8
+Midnight Chill,Chillhop,lofi,calm,0.2,68,0.5,0.5,0.85
+Coffee Shop Vibes,Chillhop,lofi,calm,0.3,80,0.6,0.6,0.78
+Bliss,Chillhop,lofi,happy,0.35,85,0.7,0.62,0.72
+Sapphire,Bonobo,electronic,calm,0.45,100,0.55,0.65,0.3
+Strobe,deadmau5,electronic,epic,0.85,128,0.6,0.8,0.02
+Levels,Avicii,electronic,happy,0.88,126,0.82,0.88,0.04
+Animals,Martin Garrix,electronic,intense,0.92,128,0.5,0.88,0.01
+Titanium,David Guetta,electronic,epic,0.8,126,0.65,0.82,0.05
+Thinking About You,Frank Ocean,rnb,romantic,0.4,82,0.7,0.58,0.35
+Redbone,Childish Gambino,rnb,romantic,0.55,96,0.65,0.72,0.15
+No Scrubs,TLC,rnb,confident,0.65,106,0.6,0.78,0.1
+Clair de Lune,Debussy,classical,calm,0.15,60,0.65,0.2,0.98
+Canon in D,Pachelbel,classical,calm,0.2,64,0.7,0.25,0.97
+Moonlight Sonata,Beethoven,classical,melancholic,0.25,72,0.3,0.15,0.99
+La Bamba,Ritchie Valens,latin,happy,0.8,118,0.88,0.85,0.2
+Despacito,Luis Fonsi,latin,happy,0.75,89,0.85,0.88,0.18
+Livin' la Vida Loca,Ricky Martin,latin,happy,0.88,176,0.82,0.9,0.05
