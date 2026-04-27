@@ -7,7 +7,7 @@
 
 ## 🎥 Demo Walkthrough
 
-**[Add your Loom link here after recording]**
+**[https://www.loom.com/share/eda3647797ac4d768703662a1d276714]**
 
 The video shows: 3 natural language inputs, the AI parsing preferences, confidence bars, a guardrail block, and the test harness report.
 
